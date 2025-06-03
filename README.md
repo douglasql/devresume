@@ -82,4 +82,4 @@ Caso tenha alguma dúvida ou sugestão, envie um e-mail para marysql.contato@gma
 
 ---
 
-**Feito com ❤️ por [Maryane Soares](https://github.com/douglasql).**
+**Feito com ❤️ por [Maryane Soares](https://github.com/marysql).**
